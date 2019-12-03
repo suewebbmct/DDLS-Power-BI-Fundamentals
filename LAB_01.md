@@ -1,7 +1,7 @@
 # Module 1: Introduction to Power BI
 
 - [Module 1: Introduction to Power BI](#module-1-introduction-to-power-bi)
-  - [Lab: Exploring an Enterprise BI Solution](#lab-exploring-an-enterprise-bi-solution)
+  - [Lab: Exploring Power BI](#lab-exploring-Power BI)
     - [Exercise 1: Viewing Reports](#exercise-1-viewing-reports)
       - [Task 1: Prepare the Lab Environment](#task-1-prepare-the-lab-environment)
     - [Exercise 2: Creating a Power BI Report](#exercise-2-creating-a-power-bi-report)
@@ -12,7 +12,7 @@
       - [Task 2: Ask Questions of Your Data](#task-2-ask-questions-of-your-data)
 
 
-## Lab: Exploring an Enterprise BI Solution
+## Lab: Exploring Power BI
 
 ### Exercise 1: Viewing Reports 
 
