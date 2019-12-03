@@ -1,6 +1,6 @@
-# Module 1: Introduction to Self-Service BI Solutions
+# Module 1: Introduction to Power BI
 
-- [Module 1: Introduction to Self-Service BI Solutions](#module-1-introduction-to-self-service-bi-solutions)
+- [Module 1: Introduction to Power BI](#module-1-introduction-to-power bi)
   - [Lab: Exploring an Enterprise BI Solution](#lab-exploring-an-enterprise-bi-solution)
     - [Exercise 1: Viewing Reports](#exercise-1-viewing-reports)
       - [Task 1: Prepare the Lab Environment](#task-1-prepare-the-lab-environment)
